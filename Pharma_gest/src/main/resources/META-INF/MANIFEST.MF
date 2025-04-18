@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: mcci.businessschool.bts.sio.slam.pharmagest.PharmagestApplic
+ ationMain
+
